@@ -2,7 +2,7 @@ package data.model;
 
 public class Student {
     private Integer studentId;
-    private String studentName;
+    private String studentName; //yo yo//
 
     public Student() {
     }
